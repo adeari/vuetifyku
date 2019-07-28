@@ -5,6 +5,11 @@
 yarn install
 ```
 
+Setting ini 
+```
+Rename vue.config.js_example menjadi vue.config.js
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
